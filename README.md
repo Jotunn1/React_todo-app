@@ -1,6 +1,6 @@
 # TODO App
 
-<img src="./src/assets/preview.jpg" alt="example of usage" title="Optional title" style="display: inline-block; margin: 0 auto; max-width: 800px">/>
+<img src="./src/assets/preview.jpg" alt="example of usage" title="Example of usage">
 
 ## A Todo List Web Application made with React.
 
